@@ -1,0 +1,5 @@
+export DEBFULLNAME="Azer Abdullaev (Like All)"
+export DEBEMAIL="like-all@yandex.com"
+NAME="telegram"
+PRODUCTION_FLAVOURS="any"
+TESTING_FLAVOURS="jessie"

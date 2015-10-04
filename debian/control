@@ -1,0 +1,17 @@
+Source: telegram
+Section: misc
+Priority: optional
+Maintainer: Azer Abdullaev (Like All) <like-all@yandex.com>
+Build-Depends: debhelper (>= 9), curl
+Standards-Version: 3.9.5
+Homepage: https://desktop.telegram/org
+Vcs-Browser: https://github.com/telegramdesktop/tdesktop
+
+Package: telegram
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: a messaging app with a focus on speed and security
+ Telegram is a messaging app with a focus on speed and security,
+ it’s super fast, simple and free. You can use Telegram on all your devices
+ at the same time — your messages sync seamlessly across any number of your phones,
+ tablets or computers.

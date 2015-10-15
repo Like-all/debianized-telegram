@@ -1,5 +1,13 @@
+telegram (0.9.6-1) UNRELEASED; urgency=medium
+
+  * Bug fixes and other minor improvements
+  * Improved speed
+  * First steps towards a new design
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 15 Oct 2015 12:27:28 +0300
+
 telegram (0.9.2-1) unstable; urgency=low
 
   * Initial release
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sun, 04 Oct 2015 15:12:25 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 15 Oct 2015 12:27:24 +0300

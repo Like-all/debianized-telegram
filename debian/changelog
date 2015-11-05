@@ -1,10 +1,21 @@
-telegram (0.9.6-1) UNRELEASED; urgency=medium
+telegram (0.9.10-1) UNRELEASED; urgency=medium
+
+  * New shared audio files section
+  * New design for popup menus
+  * Add captions to any photos you send
+  * Surround text with `single backticks` for inline monowidth code and
+    ```triple backticks``` for blocks of code
+  * The Tilde symbol is now displayed correctly
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 05 Nov 2015 12:50:10 +0200
+
+telegram (0.9.6-1) unstable; urgency=medium
 
   * Bug fixes and other minor improvements
   * Improved speed
   * First steps towards a new design
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 15 Oct 2015 12:27:28 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 05 Nov 2015 12:50:08 +0200
 
 telegram (0.9.2-1) unstable; urgency=low
 

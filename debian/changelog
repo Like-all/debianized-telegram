@@ -1,9 +1,19 @@
-telegram (0.9.13-1) UNRELEASED; urgency=medium
+telegram (0.9.15-1) UNRELEASED; urgency=medium
+
+  * Sticker management: manually rearrange your sticker packs, pack order is
+    now synced across all your devices
+  * Click and hold on a sticker to preview it before sending
+  * New context menu for chats in chats list
+  * Support for all existing emoji
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 15 Dec 2015 10:59:20 +0200
+
+telegram (0.9.13-1) unstable; urgency=medium
 
   * Groups can now have multiple administrators with the ability to edit the name and logo, and add and remove members
   * Groups that have reached their capacity of 200 users can be upgraded to supergroups of up to 1,000 members
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 26 Nov 2015 11:17:54 +0200
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 15 Dec 2015 10:59:19 +0200
 
 telegram (0.9.10-1) unstable; urgency=medium
 

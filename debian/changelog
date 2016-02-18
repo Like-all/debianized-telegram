@@ -1,11 +1,18 @@
-telegram (0.9.17-1) UNRELEASED; urgency=medium
+telegram (0.9.24-1) UNRELEASED; urgency=medium
+
+  * New waveform visualizations for voice messages
+  * Sticker suggestions when you type an emoji
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 18 Feb 2016 12:24:39 +0200
+
+telegram (0.9.17-1) unstable; urgency=medium
 
   * GIFs autoplay and automatic download
   * Inline bots support
   * Automatic download settings added
   * All media redesigned
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 05 Jan 2016 15:49:46 +0200
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 18 Feb 2016 12:24:37 +0200
 
 telegram (0.9.15-1) unstable; urgency=medium
 

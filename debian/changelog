@@ -1,4 +1,4 @@
-telegram (0.9.26-3) UNRELEASED; urgency=medium
+telegram (0.9.28-1) UNRELEASED; urgency=medium
 
   * Edit your messages in channels and supergroups
   * Share links to specific posts in channels via the post context menu
@@ -6,7 +6,17 @@ telegram (0.9.26-3) UNRELEASED; urgency=medium
   * Send silent messages in channels that will not notify members, useful for
     non-urgent or late night posting
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sat, 27 Feb 2016 04:05:35 +0200
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sat, 27 Feb 2016 04:11:54 +0200
+
+telegram (0.9.26-3) unstable; urgency=medium
+
+  * Edit your messages in channels and supergroups
+  * Share links to specific posts in channels via the post context menu
+  * Add admin signatures to messages in channels
+  * Send silent messages in channels that will not notify members, useful for
+    non-urgent or late night posting
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sat, 27 Feb 2016 04:11:53 +0200
 
 telegram (0.9.26-2) unstable; urgency=medium
 

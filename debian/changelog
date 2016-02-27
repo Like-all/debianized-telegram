@@ -1,4 +1,10 @@
-telegram (0.9.28-1) UNRELEASED; urgency=medium
+telegram (0.9.28-2) UNRELEASED; urgency=medium
+
+  * Trying sequental build
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sat, 27 Feb 2016 04:46:25 +0200
+
+telegram (0.9.28-1) unstable; urgency=medium
 
   * Edit your messages in channels and supergroups
   * Share links to specific posts in channels via the post context menu
@@ -6,7 +12,7 @@ telegram (0.9.28-1) UNRELEASED; urgency=medium
   * Send silent messages in channels that will not notify members, useful for
     non-urgent or late night posting
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sat, 27 Feb 2016 04:11:54 +0200
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Sat, 27 Feb 2016 04:46:24 +0200
 
 telegram (0.9.26-3) unstable; urgency=medium
 

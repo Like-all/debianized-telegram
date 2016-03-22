@@ -1,9 +1,16 @@
-telegram (0.9.32-1) UNRELEASED; urgency=medium
+telegram (0.9.33-1) UNRELEASED; urgency=medium
 
+  * Linux version critical bug fixed
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Mar 2016 12:46:10 +0200
+
+telegram (0.9.32-1) unstable; urgency=medium
+
+  [ Azer Abdullaev (Like All) ]
   * Bug fixes and other minor improvements
   * Other changes https://desktop.telegram.org/#v-0-9-31-stable-14-03-16
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 15 Mar 2016 10:25:56 +0200
+ -- Azer Abdullaev <buckstabu@yandex-team.ru>  Tue, 22 Mar 2016 12:43:52 +0200
 
 telegram (0.9.28-2) unstable; urgency=medium
 

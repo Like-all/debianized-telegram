@@ -1,6 +1,6 @@
-telegram (0.9.33-1) UNRELEASED; urgency=medium
+telegram (0.9.40) UNRELEASED; urgency=medium
 
-  * Linux version critical bug fixed
+  * Visual improvements https://desktop.telegram.org/#v-0-9-40-stable-05-04-16
 
  -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 22 Mar 2016 12:46:10 +0200
 

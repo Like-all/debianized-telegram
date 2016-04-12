@@ -1,9 +1,15 @@
-telegram (0.9.42-1) UNRELEASED; urgency=medium
+telegram (0.9.42-2) UNRELEASED; urgency=medium
+
+  * Stable 0.9.42 build
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 12 Apr 2016 12:33:07 +0300
+
+telegram (0.9.42-1) unstable; urgency=medium
 
   * Bugfixes and improvements
   * Other changes https://desktop.telegram.org/#v-0-9-41-stable-11-04-16
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 12 Apr 2016 12:12:27 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Tue, 12 Apr 2016 12:33:06 +0300
 
 telegram (0.9.40-1) unstable; urgency=medium
 

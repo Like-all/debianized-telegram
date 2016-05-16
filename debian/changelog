@@ -1,8 +1,14 @@
-telegram (0.9.49-4) UNRELEASED; urgency=medium
+telegram (0.9.49-5) UNRELEASED; urgency=medium
+
+  * One more time rebuild
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 16 May 2016 13:00:08 +0300
+
+telegram (0.9.49-4) unstable; urgency=medium
 
   * Rebuild once again
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 16 May 2016 12:38:15 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 16 May 2016 13:00:06 +0300
 
 telegram (0.9.49-3) unstable; urgency=medium
 

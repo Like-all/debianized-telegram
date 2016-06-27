@@ -1,4 +1,13 @@
-telegram (0.9.50-1) UNRELEASED; urgency=medium
+telegram (0.9.56-1) UNRELEASED; urgency=medium
+
+  * Fixed photo viewer to handle screen resolution change correctly.
+  * Fixed forwarding photos via drag-n-drop.
+  * Various design improvements and other bug fixes.
+  * https://desktop.telegram.org/#v-0-9-56-26-06-16
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 27 Jun 2016 10:35:09 +0300
+
+telegram (0.9.50-1) unstable; urgency=medium
 
   * Introducing Drafts: Seamless syncing for unsent messages on all your
     devices. Drafts are now visible in your chats list.
@@ -6,7 +15,7 @@ telegram (0.9.50-1) UNRELEASED; urgency=medium
   * Unread messages counter on the ‘Scroll to bottom’ button.
   * https://desktop.telegram.org/#v-0-9-50-14-06-16
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Wed, 15 Jun 2016 10:43:31 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 27 Jun 2016 10:35:08 +0300
 
 telegram (0.9.49-7) unstable; urgency=medium
 

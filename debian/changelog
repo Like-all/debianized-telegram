@@ -1,11 +1,25 @@
-telegram (0.9.56-1) UNRELEASED; urgency=medium
+telegram (0.10-1) UNRELEASED; urgency=medium
+
+  * Trending stickers. Check out and install noteworthy sticker packs from the
+    sticker packs settings box.
+  * Archived stickers. Unused stickers are now archived automatically when you go
+    over the 200 limit.
+  * Group previews. Preview groups before joining them via invite link – see who
+    else is in the group before joining.
+  * New internal video player.
+  * Improved design for chats.
+  * https://desktop.telegram.org/#v-0-10-03-08-16
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 04 Aug 2016 11:13:49 +0300
+
+telegram (0.9.56-1) unstable; urgency=medium
 
   * Fixed photo viewer to handle screen resolution change correctly.
   * Fixed forwarding photos via drag-n-drop.
   * Various design improvements and other bug fixes.
   * https://desktop.telegram.org/#v-0-9-56-26-06-16
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 27 Jun 2016 10:35:09 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 04 Aug 2016 11:13:47 +0300
 
 telegram (0.9.50-1) unstable; urgency=medium
 

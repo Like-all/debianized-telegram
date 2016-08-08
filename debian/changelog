@@ -1,4 +1,10 @@
-telegram (0.10-1) UNRELEASED; urgency=medium
+telegram (0.10-2) UNRELEASED; urgency=medium
+
+  *  Bugfixes and minor improvements
+
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 08 Aug 2016 11:18:33 +0300
+
+telegram (0.10-1) unstable; urgency=medium
 
   * Trending stickers. Check out and install noteworthy sticker packs from the
     sticker packs settings box.
@@ -10,7 +16,7 @@ telegram (0.10-1) UNRELEASED; urgency=medium
   * Improved design for chats.
   * https://desktop.telegram.org/#v-0-10-03-08-16
 
- -- Azer Abdullaev (Like All) <like-all@yandex.com>  Thu, 04 Aug 2016 11:13:49 +0300
+ -- Azer Abdullaev (Like All) <like-all@yandex.com>  Mon, 08 Aug 2016 11:18:32 +0300
 
 telegram (0.9.56-1) unstable; urgency=medium
 
